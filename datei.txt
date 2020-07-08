@@ -1,6 +1,7 @@
 Dieses ist
-eine Datei
-mit crlf
+			
+				eine Datei
+		mit crlf
 line breaks
 
 At least I
